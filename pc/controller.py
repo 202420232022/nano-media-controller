@@ -3,7 +3,7 @@
 import serial
 from pynput.keyboard import Controller, Key
 
-PORT = "COM3"   # ←自分の環境に合わせる
+PORT = "COM3"
 BAUDRATE = 9600
 
 keyboard = Controller()
