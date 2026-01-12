@@ -1,8 +1,11 @@
 # nano-media-controller
 A physical macro media controller using Arduino Nano and PC software.
 
+## Overview
+This project allows physical buttons connected to Arduino Nano to controll media playback on PC via USB.
+
 ## Status
-Under development
+Work in progress
 
 ## Planned Features
 - Play / Pause
