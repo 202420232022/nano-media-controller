@@ -7,10 +7,13 @@ This project allows physical buttons connected to Arduino Nano to controll media
 ## Status
 Work in progress
 
-## Planned Features
-- Play / Pause
-- Volume controll
-- Next / Previous track
+## Commands (planned)
+| Command | Action |
+| ---- | --------- |
+| Play | Play / Pause |
+| VOL+ | Volume Up |
+| VOL- | Volume Down |
+| NEXT | Next Track |
 
 ## Hardware
 - Arduino Nano
