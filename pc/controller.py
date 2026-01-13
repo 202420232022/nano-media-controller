@@ -31,5 +31,8 @@ while True:
         keyboard.release(Key.media_volume_down)
 
     if line == "NEXT":
-        keyboard.press(Key.media_next)
-        keyboard.release(Key.media_next)
+        keyboard.press(Key.shift)
+        keyboard.press("n")
+        keyboard.release("n")
+        keyboard.release(Key.shift)
+        
