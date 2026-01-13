@@ -21,3 +21,15 @@ while True:
     if line == "PLAY":
         keyboard.press(Key.media_play_pause)
         keyboard.release(Key.media_play_pause)
+
+    if line == "VOL_UP":
+        keyboard.press(Key.media_volume_up)
+        keyboard.release(Key.media_volume_up)
+
+    if line == "VOL_DOWN":
+        keyboard.press(Key.media_volume_down)
+        keyboard.release(Key.media_volume_down)
+
+    if line == "NEXT":
+        keyboard.press(Key.media_next)
+        keyboard.release(Key.media_next)
