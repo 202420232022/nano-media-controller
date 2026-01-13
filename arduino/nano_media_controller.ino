@@ -9,7 +9,7 @@ bool VolUState = HIGH;
 bool VolDState = HIGH;
 bool NextState = HIGH;
 unsigned long lastTime = 0;
-const unsigned long debounceMs = 100;
+const unsigned long debounceMs = 200;
 
 void setup() {
   // put your setup code here, to run once:
