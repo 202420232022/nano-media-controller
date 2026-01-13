@@ -22,3 +22,7 @@ Work in progress
 ## Software
 - Arduino IDE
 - PC side servise (Python)
+
+## Notice
+This project is for the author's　educational purposes.
+The author does not guarantee stability or long-term support.
