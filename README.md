@@ -7,7 +7,7 @@ This project allows physical buttons connected to Arduino Nano to controll media
 ## Status
 Work in progress
 
-## Commands (planned)
+## Commands
 | Command | Action |
 | ---- | --------- |
 | Play | Play / Pause |
